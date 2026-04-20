@@ -61,9 +61,7 @@ The dataset contains transactional-level sales data across multiple stores.
 ## Tools & Technologies
 
 * **SQL** – data cleaning, aggregations, KPI calculations
-* **Python (Pandas)** – exploratory data analysis
-* **Power BI / Tableau** – dashboards and visualization
-* **GitHub** – version control and documentation
+* **Power BI 
 
 ---
 
