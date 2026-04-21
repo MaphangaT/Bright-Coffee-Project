@@ -49,14 +49,7 @@ The dataset contains transactional-level sales data across multiple stores.
 ### 4. Metrics
 
 * `Quantity`
-* `Revenue` = Quantity × Unit Price
-
----
-
-
-```
-
----
+* `Revenue` = Quantity × Unit Pr
 
 ## Tools & Technologies
 
@@ -169,7 +162,7 @@ jupyter notebook notebooks/coffee_analysis.ipynb
 
 ## Author
 
-**tbo_touch**
+**Thabo_Maphanga**
 Data Analytics | SQL | Business Intelligence | Data Storytelling
 
 ---
