@@ -2,11 +2,13 @@
 
 ## Overview
 
-## https://id-preview--db09423e-0efb-4b51-97ff-e7a7dcb87934.lovable.app/
-
 Built the CEO a polished, editorial-style dashboard at / covering all 6 months (Jan–Jun 2023) of Bright Coffee data. It includes 4 KPI cards (revenue, transactions, avg ticket, SKUs) and 7 visualizations — monthly trend by store, store revenue, category mix donut, top 10 products, hour-of-day, day-of-week, and category-by-store stacked bars — each with a one-line key insight underneath. Warm coffee-house design system (Fraunces + Inter, espresso/terracotta/caramel palette, all HSL tokens).
 
 This project presents an end-to-end data analytics case study for **Bright Coffee Shop**, focused on analyzing sales performance, customer behavior, and operational efficiency across multiple store locations.
+
+**DashBoard Bright Coffee**
+
+https://id-preview--db09423e-0efb-4b51-97ff-e7a7dcb87934.lovable.app/
 
 The goal is to transform raw transactional data into actionable insights that support business decision-making and revenue growth.
 
